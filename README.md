@@ -1,3 +1,3 @@
 # Uber Eats React Native Clone
 
-## Clever Programmer channel
+## Clever Programmer Challange
